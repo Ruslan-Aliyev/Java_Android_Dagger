@@ -1,6 +1,7 @@
 # Java Android Dagger 2
 
 ## Basic Tutorials
+- https://www.youtube.com/playlist?list=PLrnPJCHvNZuA2ioi4soDZKz8euUQnJW65 <sup>Good</sup>
 - https://developer.android.com/training/dependency-injection/dagger-android
 - https://www.vogella.com/tutorials/Dagger/article.html
 
